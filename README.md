@@ -10,7 +10,7 @@ Before we start, it's important to make sure we have all the proper software to 
 
 *Step 1*
 
-Go to [Python's Official Website](https://www.python.org/downloads/) and download the latest version of python on your machine.
+Go to [Python's Official Website](https://www.python.org/downloads/) and download the latest version of Python on your machine.
 
 
 
