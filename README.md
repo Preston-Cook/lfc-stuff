@@ -1,5 +1,4 @@
 # Basic Python Lesson
----
 
 Hey, guys! If this is your first time programming, congrats on taking the first step to learning something really cool! If you're more experienced, it's great to have you too! 
 
